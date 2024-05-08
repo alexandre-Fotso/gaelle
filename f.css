@@ -1,0 +1,22 @@
+ body { 
+background-image: url();
+background-repeat:no-repeat;
+background-attachment:  SCROLL;
+background-size: 100%;
+margin: 20px;
+width: auto;
+}
+.formulaire{
+    color: rgb( 12,51,12);
+    font-size: large;
+    font-size:'lucida sans','lucida sans regular','lucida grande','lucida sans unicode',geneve,verdana,sans-serif;
+    font-weight:200px; text-align:center;
+}
+.we{
+    color:green;
+}
+ .conter{
+color: green;
+ }
+ 
+    

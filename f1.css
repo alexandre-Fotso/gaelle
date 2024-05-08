@@ -1,0 +1,61 @@
+body{ 
+    background-image:url(img39.jpg);
+    background-repeat:no-repeat; 
+                background-attachment: scroll;
+    background-size: 100%;
+    margin: 20PX;
+    width:auto;
+    
+    
+}
+.body html{
+    margin:0;
+    padding: 0;
+    HEIGHT:1OO%;
+    display:flex;
+    justify-content : center;
+    align-items:center;
+}
+.figure{
+    text-align: center;}
+    #accueil{
+        font-weight: bold;
+        color: green;
+    }
+.content{
+    color: green;
+}
+.logo{
+    color: green;
+    text-align: center;
+}
+.res{
+    color: green;
+}
+.box{
+    display: flex;
+}
+.box img{
+    max-width: 1OOPX;
+    margin-RIGHT:29PX;
+}
+
+.medocs{
+    color: green;
+    text-align: center;
+}
+.table{
+    border-collapse: collapse;
+}
+.caption{
+    font-size: 1.2em;
+    margin-bottom: 10PX;
+}
+.th.td{
+    border: 1px solid#ddd;
+    padding: 0.5EM;
+    text-align:center;
+}
+.th{
+    background-color: #f2f2f2;
+}
